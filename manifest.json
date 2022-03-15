@@ -1,0 +1,16 @@
+{
+    "name":"LowLatency Telecom",
+    "short_name":"LowLatency",
+    "theme_color":"#FFF",
+    "background_color":"#FFF",
+    "display":"standalone",
+    "orientation":"portrait",
+    "scope":"./",
+    "start_url":"./",
+    "icons": [ {
+        "src":"./img/icon.png",
+        "type":"image/png",
+        "sizes":"512x512"
+    }
+    ]
+}
